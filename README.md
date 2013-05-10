@@ -85,8 +85,8 @@ Group](https://groups.google.com/forum/#!forum/openlitespeed-development) on Goo
 
 ### Documentation
 
-[Quick install guide](http://open.litespeedtech.com/quick_install_guide.html)
-[LiteSpeed beginner tutorials](http://www.usefuljaja.com/litespeed)
+  * [Quick install guide](http://open.litespeedtech.com/quick_install_guide.html)
+  * [LiteSpeed beginner tutorials](http://www.usefuljaja.com/litespeed)
 
 ### Support
 
